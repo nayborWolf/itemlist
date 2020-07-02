@@ -36,6 +36,12 @@
     "version": "2.5.0"
   },
   {
+    "author": "TheWireLord",
+    "name": "Conduit Deconstruct",
+    "steamId": "838336462",
+    "version": null
+  },
+  {
     "author": "TrashedDT",
     "name": "Industrialisation",
     "steamId": "1463579055",
@@ -256,5 +262,107 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Centralized Climate Control (Continued)",
+    "steamId": "2007268173",
+    "version": "1.0.10.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.30.605"
+  },
+  {
+    "author": "PorqueNoLosDos",
+    "name": "Color Coded Mood Bar",
+    "steamId": "1136819681",
+    "version": null
+  },
+  {
+    "author": "Why_is_that",
+    "name": "Expanded Roofing",
+    "steamId": "2026595894",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": "753498552",
+    "version": "1.1.12"
+  },
+  {
+    "author": "Giant Space Hamster",
+    "name": "Moody",
+    "steamId": "826998327",
+    "version": "2.5.2.0"
+  },
+  {
+    "author": "N7Huntsman",
+    "name": "[1.1] Razor Wire (With Damage)",
+    "steamId": "1501459305",
+    "version": null
+  },
+  {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zzz",
+    "name": "Wall Vitals Monitor",
+    "steamId": "1334289344",
+    "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "kevlou/HooDie",
+    "name": "While You're Up (Continued)[1.1]",
+    "steamId": "2009351077",
+    "version": null
+  },
+  {
+    "author": "DoctorVanGogh, Killface, meonester",
+    "name": "Rimworld Search Agency",
+    "steamId": "726479594",
+    "version": "0.1.1.0"
+  },
+  {
+    "author": "Avius",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "0.10.7477.31070"
+  },
+  {
+    "author": "erdelf",
+    "name": "PrisonerRansom",
+    "steamId": "794038005",
+    "version": "1.0.7453.18191"
+  },
+  {
+    "author": "GassyTaco",
+    "name": "Prisoner Harvesting",
+    "steamId": "730854291",
+    "version": null
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.2.7"
   }
 ]
