@@ -668,25 +668,6 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "AIRobot_BaseTrait",
-      "degree": 1,
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "name": "robot",
-      "removePrice": 5500,
-      "stats": [
-        "+0.10 Move speed",
-        "+20% Global work speed",
-        "-100% Psychic sensitivity",
-        "-95% Toxic sensitivity",
-        "-90% Mental break threshold"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
       "defName": "NaturalMood",
       "degree": 2,
       "description": "[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.",
